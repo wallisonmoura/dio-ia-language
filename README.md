@@ -21,7 +21,7 @@ Entrega do desafio DIO - Análise de Sentimentos com Language Studio no Azure AI
 
 4- Crie um recurso e preencha as informações necessárias, após clique em "Examinar + Criar" (esse passo pode demorar alguns minutos, aguarde a mensagem de sucesso)
 
-Obs.: Caso ainda não possua um Resource Group, basta clicar em "Criar novo" e criar um com título desejado
+Obs.: Caso ainda não possua um Grupo de recursos, basta clicar em "Criar novo" e criar um com título desejado
 <p align="center">
   <img src="assets/image03.png" width='500'>
 </p>
